@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Agora Abandoned Cart
- * Plugin URI: https://libyanspider.com
+ * Plugin URI: https://endisha.ly
  * Description: Send asynchronous emails and push notifications to your logged-in woocommerce customers, reminding them of their abandoned carts.
  * Author: Mohamed Endisha
  * Version: 1.0.0
