@@ -1,7 +1,7 @@
 # Agora Abandoned Cart
-___
+
 Send asynchronous emails and push notifications to your logged-in woocommerce customers, reminding them of their abandoned carts.
-___
+
 ## Description
 
 Allows you to reach out to customers who haven’t completed their checkout and helps store runners identify the number of abandoned carts by tracking customers who abandon their merchandise. Also, this records when a customer puts a product in their cart and sending emails and push notifications to your customers, reminding them about their abandoned orders.
