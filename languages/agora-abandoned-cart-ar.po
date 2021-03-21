@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agora Abandoned Cart\n"
+"POT-Creation-Date: 2021-03-18 15:31+0200\n"
+"PO-Revision-Date: 2021-03-18 15:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: Agora\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: classes\n"
+"X-Poedit-SearchPath-1: admin\n"
+
+#: admin/views/customer-carts-monitor.tab.php:9
+msgid "Show Customers Abandoned/recoverd Carts logs"
+msgstr "اعرض سجلات عربات التسوق التي تم التخلي عنها / المستردة للزبائن"
+
+#: admin/views/customer-carts-monitor.tab.php:13
+#: admin/views/queue-monitor.tab.php:11
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: admin/views/customer-carts-monitor.tab.php:17
+#: admin/views/customer-carts-monitor.tab.php:43
+#: admin/views/queue-monitor.tab.php:15 admin/views/queue-monitor.tab.php:40
+msgid "Status"
+msgstr "الحالة"
+
+#: admin/views/customer-carts-monitor.tab.php:19
+#: admin/views/queue-monitor.tab.php:17
+msgid "Any"
+msgstr "الكل"
+
+#: admin/views/customer-carts-monitor.tab.php:25
+#: admin/views/queue-monitor.tab.php:23
+msgid "Filter"
+msgstr "بحث"
+
+#: admin/views/customer-carts-monitor.tab.php:26
+#: admin/views/queue-monitor.tab.php:24
+msgid "Reset"
+msgstr "مسح"
+
+#: admin/views/customer-carts-monitor.tab.php:29
+#: admin/views/queue-monitor.tab.php:27
+msgid "Refresh"
+msgstr "تحديث"
+
+#: admin/views/customer-carts-monitor.tab.php:39
+msgid "Id"
+msgstr "‏Id"
+
+#: admin/views/customer-carts-monitor.tab.php:40
+msgid "User"
+msgstr "المستخدم"
+
+#: admin/views/customer-carts-monitor.tab.php:41
+msgid "Cart"
+msgstr "السلة"
+
+#: admin/views/customer-carts-monitor.tab.php:42
+msgid "Notification"
+msgstr "اشعارات"
+
+#: admin/views/customer-carts-monitor.tab.php:44
+#: admin/views/queue-monitor.tab.php:41
+msgid "Added"
+msgstr "تاريخ الاضافة"
+
+#: admin/views/customer-carts-monitor.tab.php:45
+msgid "Refreshed at"
+msgstr "أخر تحديث"
+
+#: admin/views/customer-carts-monitor.tab.php:71
+#: admin/views/queue-monitor.tab.php:71
+msgid "No records"
+msgstr "لايوجد نتائج"
+
+#: admin/views/customer-carts-monitor.tab.php:84
+msgid "Total"
+msgstr "المجموع"
+
+#: admin/views/customer-carts-monitor.tab.php:105
+#: admin/views/queue-monitor.tab.php:87
+msgid "records"
+msgstr "نتائج"
+
+#: admin/views/customer-carts-monitor.tab.php:106
+#: admin/views/queue-monitor.tab.php:88
+msgid "Page"
+msgstr " صفحة"
+
+#: admin/views/customer-carts-monitor.tab.php:106
+#: admin/views/queue-monitor.tab.php:88
+msgid "of"
+msgstr "من"
+
+#: admin/views/customer-carts-monitor.tab.php:110
+#: admin/views/queue-monitor.tab.php:92
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: admin/views/general.tab.php:25
+msgid "number of notifications that will be sent to customers"
+msgstr "عدد الإخطارات التي سيتم إرسالها للمستخدمين"
+
+#: admin/views/nav.php:8 classes/dashboard.class.php:70
+msgid "Overview"
+msgstr "ملخص"
+
+#: admin/views/nav.php:13 classes/dashboard.class.php:71
+msgid "General"
+msgstr "عام"
+
+#: admin/views/nav.php:18 classes/dashboard.class.php:72
+msgid "Settings"
+msgstr "اعدادات"
+
+#: admin/views/nav.php:23 classes/dashboard.class.php:73
+msgid "Scheduled Notifications"
+msgstr "الاشعارات المجدولة"
+
+#: admin/views/nav.php:28 classes/dashboard.class.php:74
+msgid "Customer carts"
+msgstr "عربات الزبائن"
+
+#: admin/views/nav.php:33 classes/dashboard.class.php:75
+msgid "Queue monitor"
+msgstr "مراقبة قائمة الانتظار"
+
+#: admin/views/overview.tab.php:8 admin/views/page.php:14
+msgid "Agora Abandoned Cart"
+msgstr ""
+
+#: admin/views/overview.tab.php:9 admin/views/page.php:15
+msgid ""
+"Send asynchronous emails and push notifications to your customers, reminding "
+"them of their abandoned carts."
+msgstr ""
+"أرسل رسائل بريد إلكتروني غير متزامنة والاشعارات إلى عملائك لتذكيرهم بعرباتهم "
+"المهجورة."
+
+#: admin/views/queue-monitor.tab.php:8
+msgid "Monitoring a customer carts queue"
+msgstr "مراقبة قائمة انتظار عربات الزبائن"
+
+#: admin/views/queue-monitor.tab.php:32
+msgid "Count"
+msgstr "العدد"
+
+#: admin/views/queue-monitor.tab.php:37
+msgid "Queue Id"
+msgstr "# رقم"
+
+#: admin/views/queue-monitor.tab.php:38
+msgid "User Id"
+msgstr "المستخدم"
+
+#: admin/views/queue-monitor.tab.php:39
+msgid "Notify driver"
+msgstr "طريقة الاشعار"
+
+#: admin/views/queue-monitor.tab.php:42
+msgid "Updated"
+msgstr "أخر تحديث"
+
+#: admin/views/queue-monitor.tab.php:52
+msgid "Sending ..."
+msgstr "ارسال …"
+
+#: admin/views/queue-monitor.tab.php:58
+msgid "Email notification"
+msgstr "إشعار البريد الإلكتروني"
+
+#: admin/views/queue-monitor.tab.php:63
+msgid "Push notification"
+msgstr ""
+
+#: admin/views/scheduled-notifications.tab.php:49
+msgid "every day at"
+msgstr "كل يوم عند"
+
+#: admin/views/scheduled-notifications.tab.php:55
+msgid "All fields support custom variables"
+msgstr "جميع الحقول تدعم المتغيرات المخصصة"
+
+#: admin/views/scheduled-notifications.tab.php:69
+msgid "Push Notification Message"
+msgstr "رسالة Push Notification"
+
+#: admin/views/scheduled-notifications.tab.php:99
+msgid "Mail Subject"
+msgstr "عنوان الرسالة"
+
+#: admin/views/scheduled-notifications.tab.php:118
+msgid "Mail Message"
+msgstr "نص الرسالة"
+
+#: admin/views/scheduled-notifications.tab.php:135
+msgid "Execute at"
+msgstr "تنفيذ عند"
+
+#: admin/views/scheduled-notifications.tab.php:138
+msgid "Cart abandoned for"
+msgstr ""
+
+#: admin/views/scheduled-notifications.tab.php:138
+msgid "hours"
+msgstr "ساعات"
+
+#: admin/views/settings.tab.php:25
+msgid "Languages"
+msgstr "اللغات"
+
+#: admin/views/settings.tab.php:37
+msgid "Default site language is"
+msgstr "لغة الموقع الافتراضية هي"
+
+#: admin/views/settings.tab.php:43
+msgid "Send e-mail"
+msgstr "ارسل إشعار البريد الإلكتروني"
+
+#: admin/views/settings.tab.php:49
+msgid "Send push notification"
+msgstr "ارسل Push notification"
+
+#: admin/views/settings.tab.php:55
+msgid "Abandoned cart interval"
+msgstr "عربة التسوق مهجورة منذ"
+
+#: admin/views/settings.tab.php:67
+msgid ""
+"Consider cart abandoned after X  of item being added to cart & order not "
+"placed."
+msgstr ""
+"ضع في اعتبارك التخلي عن سلة التسوق بعد إضافة X من العنصر إلى سلة التسوق وعدم "
+"تقديم الطلب."
+
+#: admin/views/settings.tab.php:71
+msgid "Queue interval"
+msgstr "الفاصل الزمني لقائمة الانتظار"
+
+#: admin/views/settings.tab.php:75
+msgid "interval (in seconds) after which the task should be repeated"
+msgstr "الفاصل الزمني (بالثواني) الذي يجب أن تتكرر مهمة الطابور"
+
+#: admin/views/settings.tab.php:79
+msgid "Queue records number"
+msgstr "عدد السجلات لقائمة الانتظار"
+
+#: admin/views/settings.tab.php:83
+msgid "The maximum number of records per queue"
+msgstr "الحد الأقصى لعدد السجلات لكل قائمة انتظار"
+
+#: classes/ajax.class.php:283
+msgid "Recoverd"
+msgstr "الطلبات المستردة"
+
+#: classes/ajax.class.php:284
+msgid "Canceled"
+msgstr "الطلبات الملغية"
+
+#: classes/ajax.class.php:285
+msgid "Abondoned"
+msgstr "الطلبات المهجورة"
+
+#: classes/ajax.class.php:286
+msgid "Pending"
+msgstr "الطلبات قيد الانتظار"
+
+#: classes/ajax.class.php:287
+msgid "Completed"
+msgstr "الطلبات المكتملة"
+
+#: classes/dashboard.class.php:95
+msgid "Notifications number"
+msgstr "عدد الاشعارات"
