@@ -25,17 +25,16 @@ In the search field type “Agora Abandoned Cart,” then click “Search Plugin
 ##### Manual installation
 
 Manual installation method requires downloading the Agora Abandoned Cart plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains [instructions on how to do this here](https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation).
-___
-####  Email Sending Setup
+
+###  Email Sending Setup
 
 Agora Abandoned Cart Plugin relies on a function called WP-Cron, and this function only runs when there is a page requested. So, if there are no visits to your website, then the scheduled jobs are not run. Generally this method of sending the abandoned cart notification emails is reliable. However, if you are not very confident about the traffic volume of your website, then you can set a manual cron job via cPanel or any other control panel that your host provides.
-___
+
+
 ### Changelog
 
 ### 1.0.0
 * Kick off
-
-___
 
 ## Support and Reporting Issues
 This repository is not suitable for support. Please don't use our issue tracker for support request., to disclose an issue, please submit your ticket/issued to [Agora Abandoned Cart](https://wordpress.org/support/plugin/agora-abandoned-cart/) plugin support area.
